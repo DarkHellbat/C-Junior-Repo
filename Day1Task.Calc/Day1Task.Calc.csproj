@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0C58B106-AD27-48AF-A77E-14AFD7EC2D12}</ProjectGuid>
+    <ProjectGuid>{36670262-0DFF-4CA4-94CB-E8B7D4FBDA4A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Calc</RootNamespace>
-    <AssemblyName>Calc</AssemblyName>
+    <RootNamespace>Day1Task.Calc</RootNamespace>
+    <AssemblyName>Day1Task.Calc</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,9 +42,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sum.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

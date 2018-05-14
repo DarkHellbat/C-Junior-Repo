@@ -1,0 +1,6 @@
+C:\Users\User\source\Day1Task.Calc\Day1Task.Calc\obj\Debug\Day1Task.Calc.csproj.CoreCompileInputs.cache
+C:\Users\User\source\Day1Task.Calc\Day1Task.Calc\bin\Debug\Day1Task.Calc.exe.config
+C:\Users\User\source\Day1Task.Calc\Day1Task.Calc\bin\Debug\Day1Task.Calc.exe
+C:\Users\User\source\Day1Task.Calc\Day1Task.Calc\bin\Debug\Day1Task.Calc.pdb
+C:\Users\User\source\Day1Task.Calc\Day1Task.Calc\obj\Debug\Day1Task.Calc.exe
+C:\Users\User\source\Day1Task.Calc\Day1Task.Calc\obj\Debug\Day1Task.Calc.pdb

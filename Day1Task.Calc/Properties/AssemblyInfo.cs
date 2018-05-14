@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Calc")]
+[assembly: AssemblyTitle("Day1Task.Calc")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Calc")]
+[assembly: AssemblyProduct("Day1Task.Calc")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("0c58b106-ad27-48af-a77e-14afd7ec2d12")]
+[assembly: Guid("36670262-0dff-4ca4-94cb-e8b7d4fbda4a")]
 
 // Version information for an assembly consists of the following four values:
 //
