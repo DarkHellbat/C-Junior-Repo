@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Calc\Calc\Calc\bin\Debug\Calc.exe.config
+C:\Users\User\Documents\Calc\Calc\Calc\bin\Debug\Calc.exe
+C:\Users\User\Documents\Calc\Calc\Calc\bin\Debug\Calc.pdb
+C:\Users\User\Documents\Calc\Calc\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Calc\Calc\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Calc\Calc\Calc\obj\Debug\Calc.exe
+C:\Users\User\Documents\Calc\Calc\Calc\obj\Debug\Calc.pdb
